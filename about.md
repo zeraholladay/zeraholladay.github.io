@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a developer with a passion for open source software, web, mobile, and interpreted languages. Particularly interested in Ruby, Python, JavaScript, Java, Linux, and developing the best product with focused teams using lean methodologies and solid test cases.  I'm fascinated with distributed, fault-tolerant systems as well, such as CouchDB, Solr, ElasticSearch, Hadoop, Mesos, and Cassandra.  Also, MicroServices are awesome.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I also love cooking, video games, biking, running, weight lifting, and rowing (on an erg not crew yet).
