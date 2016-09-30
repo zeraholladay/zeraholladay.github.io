@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cookin A Lamb Shoulder Steaks!"
+title:  "Cookin Lamb Shoulder Steaks!"
 date:   2016-09-30 15:37:29 +0000
 categories: cooking
 ---
